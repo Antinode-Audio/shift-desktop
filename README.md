@@ -4,10 +4,10 @@ Welcome to the official repository for Supertone Shift Desktop App releases.
 
 ## Download
 
-📦 **Latest Release**: [Download from Releases](https://github.com/supertone-inc/shift-desktop/releases/latest)
+📦 **Latest Release**: [Download from Releases](https://github.com/Antinode-Audio/shift-desktop/releases/latest)
 
 ### Installation
-1. Go to the [Releases](https://github.com/supertone-inc/shift-desktop/releases) page
+1. Go to the [Releases](https://github.com/Antinode-Audio/shift-desktop/releases) page
 2. Download the appropriate installer for your operating system:
    - Windows: `.exe` installer
    - macOS: `.dmg` package
